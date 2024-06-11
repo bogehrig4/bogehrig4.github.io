@@ -15,7 +15,7 @@ p {
 }
 img {
   display: block;
-  margin-left: auto;
+  margin-left: 0px;
   margin-right: auto;
   width: 50%;
 }
