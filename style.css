@@ -15,8 +15,9 @@ p {
 }
 img {
   display: block;
-  margin-left: 0px;
+  margin-left: 20px;
   margin-right: auto;
+  margin-top: 20px
   width: 50%;
 }
 .dropbtn {
